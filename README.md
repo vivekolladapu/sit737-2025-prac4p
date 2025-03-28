@@ -22,7 +22,7 @@ Initialize the project and install express using "npm init -y" and "npm install 
 
 Create the project structure as below:
 
-calculation-microservice |--node_modules |--logs | |--(combined.log) | |--(error.log) |--server.js |--package.json |--package-lock.json |--README.md
+sit737-2025-prac4p |--node_modules |--logs | |--(combined.log) | |--(error.log) |--server.js |--package.json |--package-lock.json |--README.md
 
 Install Winston by using "npm install winston".
 
