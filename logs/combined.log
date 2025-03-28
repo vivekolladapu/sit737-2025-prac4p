@@ -1,0 +1,9 @@
+{"level":"info","message":"Calculator microservice running at http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Addition: 5 + 10 = 15","service":"calculator-microservice"}
+{"level":"info","message":"Calculator microservice running at http://localhost:3020","service":"calculator-microservice"}
+{"level":"info","message":"Addition: 5 + 10 = 15","service":"calculator-microservice"}
+{"level":"info","message":"Subtraction: 5 - 10 = -5","service":"calculator-microservice"}
+{"level":"info","message":"Multiplication: 5 * 10 = 50","service":"calculator-microservice"}
+{"level":"info","message":"Division: 5 / 10 = 0.5","service":"calculator-microservice"}
+{"level":"error","message":"Both num1 and num2 must be valid numbers","service":"calculator-microservice"}
+{"level":"error","message":"Division by zero is not allowed","service":"calculator-microservice"}

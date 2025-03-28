@@ -1,0 +1,2 @@
+{"level":"error","message":"Both num1 and num2 must be valid numbers","service":"calculator-microservice"}
+{"level":"error","message":"Division by zero is not allowed","service":"calculator-microservice"}
