@@ -26,7 +26,7 @@ sit737-2025-prac4p |--node_modules |--logs | |--(combined.log) | |--(error.log) 
 
 Install Winston by using "npm install winston".
 
-To execute the server.js, run the command "node server.js", and then change the numbers and operator name in the endpoint.
+To execute the server.js, run the command "node server.js", and the server will start on 3020 port, then change the numbers and operator name in the endpoint.
 
 Add all the files to the git by using "git add .".
 
